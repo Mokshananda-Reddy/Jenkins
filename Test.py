@@ -13,7 +13,7 @@ class Testlength(unittest.TestCase):
     def test_list_int2(self):
         data = "Mokshananda"
         result = length(data)
-        self.assertEqual(result, 11)
+        self.assertEqual(result, 20)
 
     def test_list_int3(self):
         data = "Moksha14102001"
